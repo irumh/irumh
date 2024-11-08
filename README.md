@@ -9,7 +9,7 @@ I’m a **Full-Stack Data Scientist** passionate about building scalable machine
 - 🏅 **Gold Medalist** for academic excellence, with a distinguished academic record in postgraduate programs.
 - 🥇 **Graduated at the top of my class** in **Bachelor of Engineering (CSE)**, consistently ranking first across all 8 semesters and achieving **First Class with Distinction**.
 - 🎖️ **Ranked 8th in VTU (Visvesvaraya Technological University)** in the second semester with a **CGPA of 9.8**.
-- 💼 Currently a **Full-Stack Data Scientist** at Aganitha Cognitive Solutions, leading projects from concept to deployment.
+- 💼 Currently a **Full-Stack Data Scientist** at AI startup, leading projects from concept to deployment.
 - 🌐 Experienced in **full-stack development**, **ML model deployment**, and **data pipeline optimization**.
 
 ---
