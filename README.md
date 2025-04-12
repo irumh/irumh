@@ -1,6 +1,6 @@
 # Hi there! I'm Irum Hussain 👋
 
-I’m a **Full-Stack Data Scientist** passionate about building scalable machine learning solutions and optimizing data workflows. With hands-on experience in various domains of machine learning, deep learning, and software development, I strive to solve complex challenges in data science and make impactful contributions. I am driven by curiosity, a love for data, and a commitment to continuous learning.Please do check out my pinned repositories section for the latest cutting edge work i am doing. 
+I’m a **Full-Stack Data Scientist** passionate about building scalable machine learning solutions and optimizing data workflows. With hands-on experience in various domains of machine learning, deep learning, and software development, I strive to solve complex challenges in data science and make impactful contributions. I am driven by curiosity, a love for data, and a commitment to continuous learning. **Please do check out my pinned repositories section for the latest work i am doing**. 
 
 ---
 
